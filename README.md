@@ -20,8 +20,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Social Stories
 
-   <a target="_blank" href="https://blog1.insaid.co/meet-chiranjit-pathak-voith-paper-technology-data-science-projects-insaid/"><img src="https://blog1.insaid.co/meet-chiranjit-pathak-voith-paper-technology-data-science-projects-insaid/">
+https://blog1.insaid.co/meet-chiranjit-pathak-voith-paper-technology-data-science-projects-insaid/
 
+https://blog.insaid.co/top-10-budding-data-science-leaders-award-2021/
 
 
 ![](https://komarev.com/ghpvc/?username=pathakchiranjit&color=red)
