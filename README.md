@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on interesting project work/assignments related to my interested topic. Also like to hands on other fields.  
 - 📫 How to reach me pathak.chiranjit@gmail.com
 
+<a href="https://pathakc.medium.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/pathakchiranjit/" target="blank">LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Medium" height="30" width="40" /></a>
+
 <!---
 pathakchiranjit/pathakchiranjit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
