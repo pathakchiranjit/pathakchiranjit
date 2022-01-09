@@ -20,10 +20,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ## Social Stories
 
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3" alt="Recent Article 5">
+   <a target="_blank" href="https://blog1.insaid.co/meet-chiranjit-pathak-voith-paper-technology-data-science-projects-insaid/"><img src="https://blog1.insaid.co/meet-chiranjit-pathak-voith-paper-technology-data-science-projects-insaid/">
 
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/4" alt="Recent Article 3">
- 
+
 
 ![](https://komarev.com/ghpvc/?username=pathakchiranjit&color=red)
 
