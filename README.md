@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Medium Articles
 
- <a target="_blank" href="https://medium.com/geekculture/understanding-basic-architecture-of-lstm-gru-diagrammatically-6365befc64d" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0" alt="Recent Article 1">
 
 
 
