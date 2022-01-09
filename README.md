@@ -21,11 +21,11 @@ You can click the Preview link to take a look at your changes.
 
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3" alt="Recent Article 5">
 
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/4" alt="Recent Article 3">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/4" alt="Recent Article 3">
    
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/2" alt="Recent Article 3">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/2" alt="Recent Article 3">
     
-     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/1" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/1" alt="Recent Article 1">
 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Face_Recognition_CV)](https://github.com/pathakchiranjit/Face_Recognition_CV)
