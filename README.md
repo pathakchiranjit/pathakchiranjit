@@ -24,8 +24,6 @@ https://blog1.insaid.co/meet-chiranjit-pathak-voith-paper-technology-data-scienc
 
 https://blog.insaid.co/top-10-budding-data-science-leaders-award-2021/
 
-https://www.linkedin.com/feed/update/urn:li:activity:6759704385116262400/
-
 
 ![](https://komarev.com/ghpvc/?username=pathakchiranjit&color=red)
 
