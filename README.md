@@ -8,7 +8,7 @@
 - 👀 I’m interested in Industrial Product/Application/Solution/Services of DS & AI.
 
 - 💞️ I’m looking to collaborate on interesting project work/assignments related to my interested topic. Also like to hands on other fields.  
-- 
+
 - 📫 Do reach me pathak.chiranjit@gmail.com
 
 
