@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on interesting project work/assignments related to my interested topic. Also like to hands on other fields.  
 - 📫 How to reach me pathak.chiranjit@gmail.com
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=1200&lines=Master's+by+qualification+Engineer+by+profession+Data+Enthusiast+by+choice.++++++++++)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=900&lines=Master's+by+qualification+Engineer+by+profession+Data+Enthusiast+by+choice.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
