@@ -17,6 +17,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pathakchiranjit&layout=compact)
 
+## Medium Articles
+
+ <a target="_blank" href="https://medium.com/geekculture/understanding-basic-architecture-of-lstm-gru-diagrammatically-6365befc64d" alt="Recent Article 1">
+
+
+
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Face_Recognition_CV)](https://github.com/pathakchiranjit/Face_Recognition_CV)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Twitter_Sentiment_Analysis)](https://github.com/pathakchiranjit/Twitter_Sentiment_Analysis)
