@@ -1,16 +1,15 @@
-- 👋 Hi, I’m @pathakchiranjit
-- 👀 I’m interested in Industrial Product/Application/Solution/Services of DS & AI.
-- 🌱 I’m currently learning ML & DL
-- 💞️ I’m looking to collaborate on interesting project work/assignments related to my interested topic. Also like to hands on other fields.  
-- 📫 How to reach me pathak.chiranjit@gmail.com
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=850&lines=Master's+by+qualification+Engineer+by+profession+Data+Enthusiast+by+choice.++++++++++)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
+  <img width="92" src="https://github.com/pathakchiranjit/pathakchiranjit/blob/main/mkdir.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Chiranjit!</h2>
+<h2 align="center">Hi there 👋, I'm Chiranjit [@pathakchiranjit]!</h2>
 
+- 👀 I’m interested in Industrial Product/Application/Solution/Services of DS & AI.
+
+- 💞️ I’m looking to collaborate on interesting project work/assignments related to my interested topic. Also like to hands on other fields.  
+- 
+- 📫 Do reach me pathak.chiranjit@gmail.com
 
 
 <a href="https://pathakc.medium.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/pathakchiranjit/" target="blank">LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Medium" height="30" width="40" /></a>
