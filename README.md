@@ -19,8 +19,13 @@ You can click the Preview link to take a look at your changes.
 
 ## Medium Articles
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0" alt="Recent Article 1">
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0" alt="Recent Article 4">
 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/1" alt="Recent Article 5">
+   
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/2" alt="Recent Article 3">
+    
+     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3" alt="Recent Article 2">
 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Face_Recognition_CV)](https://github.com/pathakchiranjit/Face_Recognition_CV)
