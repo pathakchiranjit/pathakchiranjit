@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+![](https://komarev.com/ghpvc/?username=pathakchiranjit)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pathakchiranjit&theme=highcontrast&show_icons=true&count_private=true)
