@@ -52,6 +52,8 @@ https://blog.insaid.co/top-10-budding-data-science-leaders-award-2021/
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0" alt="Recent Article 3">
 
 
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Natural-languge-Processing) (https://github.com/pathakchiranjit/Natural-languge-Processing)
+     
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Face_Recognition_CV)](https://github.com/pathakchiranjit/Face_Recognition_CV)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Twitter_Sentiment_Analysis)](https://github.com/pathakchiranjit/Twitter_Sentiment_Analysis)
@@ -59,3 +61,5 @@ https://blog.insaid.co/top-10-budding-data-science-leaders-award-2021/
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=GCD_Capstone_Oct21)](https://github.com/pathakchiranjit/GCD_Capstone_Oct21)
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Capstone_CDF_April21)](https://github.com/pathakchiranjit/Capstone_CDF_April21)
+     
+
