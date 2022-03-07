@@ -35,7 +35,7 @@ https://blog.insaid.co/top-10-budding-data-science-leaders-award-2021/
 ## Medium Articles
 
 
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/7" alt="Recent Article 3">
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0" alt="Recent Article 3">
   
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/3" alt="Recent Article 3">
 
@@ -49,7 +49,7 @@ https://blog.insaid.co/top-10-budding-data-science-leaders-award-2021/
        
    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/5" alt="Recent Article 3">
              
-   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/0" alt="Recent Article 3">
+   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@pathakc/7" alt="Recent Article 3">
 
 
 [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=pathakchiranjit&repo=Natural-languge-Processing)](https://github.com/pathakchiranjit/Natural-languge-Processing)
